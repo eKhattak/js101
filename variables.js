@@ -9,3 +9,13 @@
 // null
 
 // Undefined
+
+// 🚩  Primitive Values are Immutatable
+
+// ----------------------
+
+// Non-Primitive
+
+// Objects
+
+// Functions
