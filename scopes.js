@@ -1,3 +1,5 @@
-// Function Scopes
+for (let i = 0; i < 5; i++) {
+  // console.log(i_)
+}
 
-// Block Scopes
+console.log(i);
