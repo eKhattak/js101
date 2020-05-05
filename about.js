@@ -7,6 +7,9 @@
 // Work at
 // 🏢  CARE Pvt Ltd
 
+// Technical Lead at
+// 👨‍💻  MSP - Islamabad
+
 // Available at
 // 🔗  https://twitter.com/khattakdev
 
