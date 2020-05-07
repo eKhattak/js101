@@ -1,21 +1,17 @@
 // Primitive Values
 
 // Strings
-
+var name = "Arsalan";
 // Numbers
-
+var num = 5;
 // Booleans
-
+var isAuth = true;
+var isLoggedIn = false;
 // null
-
+var iAmNull = null;
 // Undefined
+var iAmUndefined = undefined;
 
-// 🚩  Primitive Values are Immutatable
+var IAmAlsoUndefined;
 
-// ----------------------
-
-// Non-Primitive
-
-// Objects
-
-// Functions
+console.log(name, num, isAuth, isLoggedIn);
